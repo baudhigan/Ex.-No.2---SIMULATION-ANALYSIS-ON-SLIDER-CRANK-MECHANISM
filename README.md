@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-
+![Screenshot 2023-12-19 205743](https://github.com/baudhigan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/151921158/f5568ea9-e1bd-4631-8db9-01193a179183)
 
 ### Name:
 ### Register Number: 
